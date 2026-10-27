@@ -1,4 +1,4 @@
-# REST API Testing Portfolio — Postman
+# REST API Testing Portfolio - Postman
 
 ## Overview
 
